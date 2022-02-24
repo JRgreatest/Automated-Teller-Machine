@@ -1,0 +1,9 @@
+===========BANK LIST=============
+kakao
+ibk
+woori
+sinhan
+kiwom
+kimbank
+holymoly
+hello
